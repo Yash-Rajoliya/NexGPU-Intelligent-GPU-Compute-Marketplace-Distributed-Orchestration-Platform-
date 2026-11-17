@@ -1,0 +1,2 @@
+# NexGPU-Intelligent-GPU-Compute-Marketplace-Distributed-Orchestration-Platform-
+Intelligent GPU compute marketplace connecting AI/ML workloads with compute providers. Features distributed Java microservices, Kafka, Go-based agents, dynamic pricing, GPU bidding, intelligent resource allocation, fair-share and gang scheduling, Kubernetes, Ray, predictive resource modeling &amp; fault-tolerant workload recovery across clusters.
